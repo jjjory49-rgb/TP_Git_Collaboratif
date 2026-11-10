@@ -1,3 +1,5 @@
 TP de Génie Logiciel
 Découverte de Git
 Git est un système de gestion de versions.
+Git permet de travailler en équipe.
+Git facilite le suivi des modifications.
